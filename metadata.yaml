@@ -1,0 +1,28 @@
+_repo: Gli-ultimi-giorni-di-GoldoniLe-Commedie-vol.-1_46352
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46352-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carrera, Valentino
+    birthdate: 1834
+    deathdate: 1895
+    gutenberg_agent_id: '43704'
+    url: http://www.gutenberg.org/2009/agents/43704
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2014-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46352'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goldoni, Carlo, 1707-1793 -- Drama'
+- !lcsh 'Italian drama -- 19th century'
+- !lcc 'PQ'
+title: "Gli ultimi giorni di Goldoni\r\nLe Commedie, vol. 1"
+url: http://www.gutenberg.org/ebooks/46352
